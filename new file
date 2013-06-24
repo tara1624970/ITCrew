@@ -1,7 +1,7 @@
 <?php
+
+  $chicken = "gone";
   
-  $new = "new file";
-  
-  $new .= "Chicken!";
+  echo $chicken;
   
 ?>
