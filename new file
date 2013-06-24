@@ -2,6 +2,8 @@
 
   $chicken = "gone";
   
-  echo $chicken;
+  echo $chicken . "For realz yo!";
+  
+  
   
 ?>
